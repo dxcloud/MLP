@@ -1,0 +1,4 @@
+http://lcn.epfl.ch/tutorial/french/mlpc/html/index.html
+http://crteknologies.fr/projets/tipe_reseaux_neuronaux/
+http://www.iro.umontreal.ca/~vincentp/ift3395/H2008/
+http://william.arrouy.free.fr/neural/neutm.html
