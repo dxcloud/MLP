@@ -1,2 +1,0 @@
-network.o: network.cpp rasterfile.h network.hpp
-network.cpp rasterfile.h network.hpp :
